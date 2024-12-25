@@ -17,9 +17,8 @@
 ### 编译
 
 确保已安装 `gcc` 编译器。在项目根目录下运行：
-
+do anything you want ^_^
 ```bash
 make
 ./sorting_project
 
-do anything you want
