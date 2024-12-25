@@ -1,6 +1,5 @@
-# Sorting-Algorithm-Comprehensive-Demonstration-System
 数据结构课设设计_排序算法综合演示系统
-# Sorting Algorithms Performance Analysis and Visualization
+# Sorting Algorithms Performance Analysis and Visualization排序算法性能分析及可视化
 
 ## 项目简介
 
@@ -20,8 +19,8 @@
 
 确保已安装 `gcc` 编译器。在项目根目录下运行：
 
-```bash
-make
+```bash   ”“bash
+make   使   使
 ./sorting_project
 
 do anything you want
