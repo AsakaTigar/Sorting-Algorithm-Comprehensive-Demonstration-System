@@ -20,3 +20,6 @@
 
 ```bash
 make
+./sorting_project
+
+do anything you want
